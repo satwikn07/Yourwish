@@ -11,8 +11,8 @@
     }
     #textbox{
         border-radius: 8%;
-        width: 80%;
-        height: 10vh;
+        width: 75vw;
+        height: 10vw;
         outline: none;
         border:none;
         font-size: xx-large;
@@ -23,7 +23,7 @@
     #submit_button{
         border-radius: 8%;
         width: 50%;
-        height: 5vh;
+        height: 10vw;
         outline: none;
         border:none;
         font-size: 20px;
