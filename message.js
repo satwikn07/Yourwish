@@ -1,0 +1,1 @@
+document.getElementById('message_body').innerHTML = localStorage.getItem('Message')
